@@ -72,7 +72,7 @@
 		// "fade" = FADE ANIMATION
 		// "slide" = SLIDE FROM BOTTOM ANIMATION
 		
-		var option_overlay_animation = "fade";
+		var option_overlay_animation = "slide";
 		
 		
 		
@@ -142,7 +142,7 @@
         // "glitch" = GLITCH BACKGROUND
 		// "custom" = CUSTOM BACKGROUND
 		
-		var option_hero_background_mode = "youtube";
+		var option_hero_background_mode = "image";
 
 
 
@@ -152,7 +152,7 @@
 				
 				
 				// IMAGE PATH / URL
-				var option_hero_background_image_path = [{src:'assets/images/1.jpg'}];
+				var option_hero_background_image_path = [{src:'assets/images/1.png'}];
 		
 		
 		
