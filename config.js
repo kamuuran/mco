@@ -142,7 +142,7 @@
         // "glitch" = GLITCH BACKGROUND
 		// "custom" = CUSTOM BACKGROUND
 		
-		var option_hero_background_mode = "image";
+		var option_hero_background_mode = "youtube";
 
 
 
