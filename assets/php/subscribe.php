@@ -25,11 +25,11 @@ $file_name = "subscriber-list.txt";
 
 
 // ENTER MAILCHIMP API KEY
-$mailchimp_api_key =  "0f0c157xxxxdbc5619c4xxxxfd8xxxx-us3";
+$mailchimp_api_key =  "98b90a429e2105e0c7185f222d2661b6-us21";
 
 			 
 // ENTER MAILCHIMP LIST ID
-$mailchimp_list_id =  "3xxexx67xx";
+$mailchimp_list_id =  "c6558c57c3";
 
 
 /** 3. MESSAGES
