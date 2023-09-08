@@ -281,12 +281,12 @@
 				
 				
 				// START POINT IN SECONDS
-				var option_hero_background_youtube_startPoint = 0;
+				var option_hero_background_youtube_startPoint = 1;
 				
 				
 				
 				// END POINT IN SECONDS
-				var option_hero_background_youtube_endPoint = 90;
+				var option_hero_background_youtube_endPoint = 47;
 				
 				
 				
