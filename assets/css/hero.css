@@ -221,6 +221,8 @@
 {
     margin-top: 10px;
     margin-bottom: 20px;
+	width:360px;
+
 }
 
 .hero .front-content .cycle-wrapper
@@ -244,7 +246,7 @@
 
     margin: 0 auto;
     margin-bottom: 48px;
-
+    padding-top: 44px;
     text-align: center;
 
     color: #fff;
@@ -252,7 +254,7 @@
 
 .hero-1 .front-content h1 span
 {
-    color: #1fb8b2;
+    color: #5562D1;
 }
 
 .hero-1 .front-content p

@@ -72,7 +72,7 @@
 		// "fade" = FADE ANIMATION
 		// "slide" = SLIDE FROM BOTTOM ANIMATION
 		
-		var option_overlay_animation = "fade";
+		var option_overlay_animation = "slide";
 		
 		
 		
@@ -152,7 +152,7 @@
 				
 				
 				// IMAGE PATH / URL
-				var option_hero_background_image_path = [{src:'assets/images/1.jpg'}];
+				var option_hero_background_image_path = [{src:'assets/images/1.png'}];
 		
 		
 		
@@ -281,12 +281,12 @@
 				
 				
 				// START POINT IN SECONDS
-				var option_hero_background_youtube_startPoint = 0;
+				var option_hero_background_youtube_startPoint = 1;
 				
 				
 				
 				// END POINT IN SECONDS
-				var option_hero_background_youtube_endPoint = 90;
+				var option_hero_background_youtube_endPoint = 47;
 				
 				
 				
@@ -312,7 +312,7 @@
 				// "on" = SHOW VIDEO CONTROLS
 				// "off" = HIDE VIDEO CONTROLS
 				
-				var option_hero_background_youtube_controls = "on";
+				var option_hero_background_youtube_controls = "off";
 				
 				
 				
