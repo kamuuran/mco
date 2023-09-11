@@ -295,7 +295,7 @@
 				// "on" = VIDEO IS MUTED
 				// "off" = VIDEO IS NOT MUTED
 				
-				var option_hero_background_youtube_mute = "off"
+				var option_hero_background_youtube_mute = "on"
 
 
 
